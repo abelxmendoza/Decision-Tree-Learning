@@ -2,6 +2,8 @@
 
 This repository contains a Python script for learning a decision tree using the LEARN-DECISION-TREE algorithm. The script utilizes the `scikit-learn` library to create a Decision Tree Classifier and visualizes the resulting decision tree.
 
+![1702156206075](image/README/1702156206075.png)
+
 ## Repository Contents
 
 * `decision_tree_learning.py`: The main Python script for learning a decision tree.
@@ -63,7 +65,6 @@ This project is licensed under the MIT License - see the [LICENSE](https://chat.
 
 Assignment Submission:
 [https://docs.google.com/document/d/1h4M-IueEFTKt-olsMWisFFHuS9oMp9TwNNQRK9h1DY0/edit?usp=sharing]()
-
 
 Assignment Guideline:
 
