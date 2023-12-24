@@ -4,6 +4,10 @@ This repository contains a Python script for learning a decision tree using the 
 
 ![1702156206075](image/README/1702156206075.png)
 
+**Digital Growth: The Binary Tree of Decisions**
+
+This vibrant image depicts a tree that symbolizes the concept of "Decision Tree Learning" in a visually compelling way. The trunk and branches are rendered in a spectrum of warm colors, representing the various paths and choices in a decision process. The leaves are replaced by an array of digital binary codes in cool hues, suggesting data points and the binary decisions made at each node of the tree. The background of cascading raining binary digits in vertical streams evokes the flow of information and the algorithms that run behind the scenes of machine learning. Overall, the artwork captures the intersection of organic decision-making and digital data processing, a hallmark of decision tree algorithms in artificial intelligence.
+
 ## Repository Contents
 
 * `decision_tree_learning.py`: The main Python script for learning a decision tree.
@@ -12,7 +16,6 @@ This repository contains a Python script for learning a decision tree using the 
 ## Getting Started
 
 Follow these steps to get started with the decision tree learning script:
-
 
 Follow these steps to get started with the decision tree learning script:
 
@@ -59,7 +62,6 @@ Special thanks to Professor Kenytt Avery at California State University Fullerto
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://chat.openai.com/c/LICENSE) file for details.
-
 
 ## Documentations
 
